@@ -24,7 +24,6 @@ dependencies:
   flutter:
     sdk: flutter
   mobx:
-  provider:
   flutter_mobx:
 
 
